@@ -4,6 +4,7 @@ Basic rails app for CRUD operations
 
 visit https://dry-river-17046.herokuapp.com/ for doing hands-on the app
 
+Prerequisites: ruby, rails, MySQL
 
 to rund project in local:
 
