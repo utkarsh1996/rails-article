@@ -1,24 +1,27 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Basic rails app for CRUD operations
 
-Things you may want to cover:
+visit https://dry-river-17046.herokuapp.com/ for doing hands-on the app
 
-* Ruby version
 
-* System dependencies
+to rund project in local:
 
-* Configuration
+1) Clone the project
 
-* Database creation
+2) Go to the project directory
 
-* Database initialization
+3) run 'bundle install'
 
-* How to run the test suite
+after successful run
 
-* Services (job queues, cache servers, search engines, etc.)
+4) open mysql server in new terminal
 
-* Deployment instructions
+5) come back to project terminal
 
-* ...
+6) run 'rails db:migrate'
+
+7) run 'rails server'
+
+8) visit localhost:3000 to see the project running
+
